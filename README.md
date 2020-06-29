@@ -1,0 +1,1 @@
+# dane_do_lekcji_uczenia_maszynowego
