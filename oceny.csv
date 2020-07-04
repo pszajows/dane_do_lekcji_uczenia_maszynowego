@@ -1,0 +1,157 @@
+﻿plec;klasa;hobby;rodzenstwo;korepetycje;matematyka;jezyk_polski;jezyk_obcy;uczelnia
+M;1 B;sport;0;N;3;4;4;kierunki humanistyczne
+M;1 C;gry komputerowe;0;T;3;6;6;kierunki techniczne
+M;1 B;wolontariat/aktywnosci grupowe;0;N;6;6;5;kierunki techniczne
+K;1 A;fotografia/rzemioslo;2;N;2;2;2;brak matury
+K;1 C;gry komputerowe;0;N;4;5;4;kierunki ekonomiczne
+M;1 B;fotografia/rzemioslo;0;N;4;5;4;kierunki ekonomiczne
+M;1 B;gry komputerowe;0;T;5;6;6;kierunki techniczne
+K;1 B;gry komputerowe;1;N;2;1;1;brak matury
+K;1 D;czytanie/ogladanie filmow;2;T;3;3;3;kształcenie zawodowe
+M;1 B;czytanie/ogladanie filmow;1;N;1;3;2;brak dlaszego ksztalcenia
+K;1 C;fotografia/rzemioslo;0;N;3;2;2;kształcenie zawodowe
+K;1 D;fotografia/rzemioslo;0;N;2;2;2;brak matury
+M;1 B;czytanie/ogladanie filmow;0;N;3;4;3;kierunki humanistyczne
+K;1 A;gry komputerowe;0;T;4;4;4;kierunki ekonomiczne
+M;1 A;wolontariat/aktywnosci grupowe;0;N;2;2;2;brak dlaszego ksztalcenia
+M;1 C;gra na instrumencie/spiew;0;N;4;4;4;kierunki humanistyczne
+K;1 C;czytanie/ogladanie filmow;0;N;5;5;5;kierunki techniczne
+M;1 B;gra na instrumencie/spiew;1;N;1;1;1;brak matury
+K;1 C;wolontariat/aktywnosci grupowe;1;T;2;2;2;brak matury
+M;1 C;fotografia/rzemioslo;1;N;2;2;2;brak dlaszego ksztalcenia
+K;1 D;czytanie/ogladanie filmow;0;N;3;3;3;kształcenie zawodowe
+M;1 B;gry komputerowe;1;T;4;4;3;kierunki ekonomiczne
+K;1 D;gry komputerowe;0;N;2;2;2;brak matury
+M;1 C;gra na instrumencie/spiew;0;N;3;4;4;kierunki humanistyczne
+K;1 D;sport;1;T;4;4;5;kierunki ekonomiczne
+K;1 A;wolontariat/aktywnosci grupowe;1;N;4;4;3;kierunki ekonomiczne
+K;1 B;gry komputerowe;0;N;3;2;3;kształcenie zawodowe
+M;1 C;sport;0;N;4;3;4;kierunki humanistyczne
+K;1 C;czytanie/ogladanie filmow;0;N;4;3;3;kształcenie zawodowe
+M;1 D;wolontariat/aktywnosci grupowe;0;N;3;3;4;kierunki humanistyczne
+M;1 D;gry komputerowe;0;N;3;4;4;kierunki humanistyczne
+M;1 B;gry komputerowe;0;N;3;3;3;kierunki humanistyczne
+M;1 E;wolontariat/aktywnosci grupowe;2;N;2;4;3;kierunki humanistyczne
+K;1 D;gry komputerowe;0;N;2;1;1;brak matury
+K;1 E;gry komputerowe;0;N;6;5;5;kierunki techniczne
+K;1 E;fotografia/rzemioslo;0;T;4;5;5;kierunki techniczne
+M;1 D;fotografia/rzemioslo;0;N;4;4;4;kierunki humanistyczne
+M;1 D;gra na instrumencie/spiew;1;N;2;2;2;brak dlaszego ksztalcenia
+M;1 D;fotografia/rzemioslo;2;T;4;6;6;kierunki techniczne
+K;1 B;fotografia/rzemioslo;2;N;2;3;3;kształcenie zawodowe
+K;1 C;fotografia/rzemioslo;1;N;2;3;2;kształcenie zawodowe
+M;1 C;fotografia/rzemioslo;0;N;3;4;3;kierunki humanistyczne
+M;1 B;fotografia/rzemioslo;0;N;2;3;3;brak dlaszego ksztalcenia
+K;1 B;gry komputerowe;1;T;2;3;3;kształcenie zawodowe
+M;1 E;fotografia/rzemioslo;1;N;2;2;2;brak dlaszego ksztalcenia
+K;1 B;fotografia/rzemioslo;0;N;3;2;2;kształcenie zawodowe
+M;1 A;fotografia/rzemioslo;0;T;2;3;3;kierunki humanistyczne
+M;1 C;czytanie/ogladanie filmow;0;N;3;4;4;kierunki humanistyczne
+M;1 D;fotografia/rzemioslo;2;T;3;3;4;kierunki humanistyczne
+K;1 C;czytanie/ogladanie filmow;0;T;5;5;5;kierunki techniczne
+K;1 E;gry komputerowe;0;N;2;2;2;brak matury
+K;1 E;fotografia/rzemioslo;2;T;4;4;4;kierunki ekonomiczne
+K;1 C;gry komputerowe;0;N;2;2;2;brak matury
+K;1 D;czytanie/ogladanie filmow;0;N;5;4;4;kierunki ekonomiczne
+M;1 C;gra na instrumencie/spiew;1;T;4;5;5;kierunki techniczne
+M;1 C;czytanie/ogladanie filmow;2;N;1;2;2;brak dlaszego ksztalcenia
+M;1 E;fotografia/rzemioslo;0;T;5;5;5;kierunki techniczne
+K;1 D;fotografia/rzemioslo;0;N;2;2;2;brak matury
+K;1 D;gry komputerowe;0;T;2;3;3;kształcenie zawodowe
+M;1 C;gra na instrumencie/spiew;1;N;1;1;1;brak matury
+K;1 E;sport;2;T;5;3;3;kierunki ekonomiczne
+K;1 A;gra na instrumencie/spiew;1;N;2;1;1;brak matury
+K;1 A;fotografia/rzemioslo;1;N;3;3;2;kształcenie zawodowe
+M;1 C;fotografia/rzemioslo;0;N;3;5;4;kierunki humanistyczne
+M;1 D;gra na instrumencie/spiew;0;N;3;2;2;brak dlaszego ksztalcenia
+K;1 B;gra na instrumencie/spiew;0;N;3;3;3;kształcenie zawodowe
+K;1 D;gra na instrumencie/spiew;1;N;2;1;1;brak matury
+M;1 C;gry komputerowe;0;N;3;4;4;kierunki humanistyczne
+K;1 B;fotografia/rzemioslo;2;N;2;3;2;kształcenie zawodowe
+M;1 C;fotografia/rzemioslo;0;N;1;3;3;brak dlaszego ksztalcenia
+M;1 D;gry komputerowe;2;T;2;3;4;kierunki humanistyczne
+K;1 D;gry komputerowe;0;T;2;2;3;kształcenie zawodowe
+M;1 A;fotografia/rzemioslo;1;N;2;2;2;brak dlaszego ksztalcenia
+K;1 C;gra na instrumencie/spiew;1;N;3;2;2;kształcenie zawodowe
+K;1 C;gra na instrumencie/spiew;0;N;2;2;2;brak matury
+K;1 B;fotografia/rzemioslo;1;N;2;2;1;brak matury
+K;1 E;gra na instrumencie/spiew;0;N;1;1;1;brak matury
+K;1 A;sport;0;T;5;4;5;kierunki ekonomiczne
+M;1 D;gra na instrumencie/spiew;0;T;3;4;4;kierunki humanistyczne
+M;1 E;wolontariat/aktywnosci grupowe;0;N;3;3;3;kierunki humanistyczne
+M;1 B;fotografia/rzemioslo;0;N;2;2;2;brak dlaszego ksztalcenia
+K;1 B;czytanie/ogladanie filmow;2;N;2;2;2;brak matury
+K;1 A;gry komputerowe;1;T;2;2;2;brak matury
+K;1 E;fotografia/rzemioslo;0;N;3;3;3;kształcenie zawodowe
+K;1 D;czytanie/ogladanie filmow;1;N;1;2;1;brak matury
+M;1 C;gry komputerowe;0;N;4;5;5;kierunki techniczne
+M;1 C;gry komputerowe;1;N;5;4;5;kierunki ekonomiczne
+M;1 D;fotografia/rzemioslo;0;N;4;3;4;kierunki humanistyczne
+M;1 A;gry komputerowe;0;N;2;4;4;kierunki humanistyczne
+M;1 D;gra na instrumencie/spiew;0;N;4;5;5;kierunki techniczne
+M;1 C;sport;0;N;3;4;4;kierunki humanistyczne
+K;1 C;czytanie/ogladanie filmow;1;N;1;1;2;brak matury
+K;1 C;czytanie/ogladanie filmow;0;N;4;4;4;kierunki ekonomiczne
+K;1 C;fotografia/rzemioslo;1;T;2;2;2;brak matury
+M;1 B;gry komputerowe;0;N;4;5;6;kierunki techniczne
+K;1 C;fotografia/rzemioslo;1;T;5;4;4;kierunki ekonomiczne
+K;1 B;gra na instrumencie/spiew;0;T;3;3;3;kształcenie zawodowe
+M;1 E;gry komputerowe;0;T;2;4;4;kierunki humanistyczne
+M;1 D;gry komputerowe;2;N;2;3;3;brak dlaszego ksztalcenia
+M;1 D;sport;0;N;3;3;2;brak dlaszego ksztalcenia
+K;1 B;gry komputerowe;0;N;4;4;4;kierunki ekonomiczne
+K;1 D;sport;0;T;3;4;4;kierunki humanistyczne
+M;1 D;fotografia/rzemioslo;0;N;5;6;6;kierunki techniczne
+K;1 B;czytanie/ogladanie filmow;0;T;2;2;2;brak matury
+K;1 C;gry komputerowe;0;T;6;5;6;kierunki techniczne
+M;1 C;gry komputerowe;0;N;2;4;4;kierunki humanistyczne
+M;1 D;wolontariat/aktywnosci grupowe;0;N;5;6;6;kierunki techniczne
+K;1 E;fotografia/rzemioslo;0;T;3;3;3;kształcenie zawodowe
+M;1 B;fotografia/rzemioslo;1;N;2;4;4;kierunki humanistyczne
+M;1 B;gra na instrumencie/spiew;0;N;3;3;4;kierunki humanistyczne
+M;1 D;fotografia/rzemioslo;1;T;4;6;6;kierunki techniczne
+K;1 A;fotografia/rzemioslo;0;N;2;2;2;brak matury
+M;1 D;gry komputerowe;0;N;2;2;2;brak dlaszego ksztalcenia
+M;1 E;sport;0;T;6;6;6;kierunki techniczne
+M;1 B;sport;1;N;4;6;5;kierunki techniczne
+M;1 D;sport;0;N;5;4;4;kierunki ekonomiczne
+M;1 D;gra na instrumencie/spiew;0;N;2;3;3;brak dlaszego ksztalcenia
+K;1 B;fotografia/rzemioslo;0;T;6;5;5;kierunki techniczne
+K;1 D;czytanie/ogladanie filmow;2;N;3;2;2;kształcenie zawodowe
+K;1 E;gry komputerowe;0;N;5;5;4;kierunki ekonomiczne
+M;1 B;czytanie/ogladanie filmow;0;N;5;6;5;kierunki techniczne
+K;1 B;gra na instrumencie/spiew;0;N;4;4;3;kierunki ekonomiczne
+K;1 D;gry komputerowe;0;T;3;4;4;kierunki humanistyczne
+M;1 A;sport;0;N;2;2;2;brak dlaszego ksztalcenia
+K;1 E;gry komputerowe;2;T;5;4;3;kierunki ekonomiczne
+K;1 B;gra na instrumencie/spiew;0;T;2;2;1;brak matury
+K;1 E;czytanie/ogladanie filmow;0;N;4;2;2;kształcenie zawodowe
+M;1 E;gry komputerowe;1;T;2;2;2;brak dlaszego ksztalcenia
+K;1 A;czytanie/ogladanie filmow;0;N;2;2;2;brak matury
+K;1 B;gra na instrumencie/spiew;0;N;5;5;4;kierunki ekonomiczne
+K;1 E;fotografia/rzemioslo;1;T;6;6;5;kierunki techniczne
+K;1 A;gra na instrumencie/spiew;0;T;3;3;3;kształcenie zawodowe
+K;1 A;sport;0;N;4;4;4;kierunki ekonomiczne
+M;1 B;fotografia/rzemioslo;0;T;2;4;3;kierunki humanistyczne
+M;1 E;czytanie/ogladanie filmow;1;T;4;4;4;kierunki ekonomiczne
+M;1 E;gry komputerowe;2;T;4;6;5;kierunki techniczne
+M;1 E;wolontariat/aktywnosci grupowe;0;N;5;6;6;kierunki techniczne
+K;1 A;czytanie/ogladanie filmow;0;T;4;4;4;kierunki ekonomiczne
+K;1 E;gra na instrumencie/spiew;0;N;6;5;4;kierunki ekonomiczne
+M;1 E;czytanie/ogladanie filmow;0;N;2;2;2;brak dlaszego ksztalcenia
+K;1 E;czytanie/ogladanie filmow;0;N;5;4;3;kierunki ekonomiczne
+M;1 E;fotografia/rzemioslo;0;N;3;3;3;kierunki humanistyczne
+K;1 E;czytanie/ogladanie filmow;1;N;2;2;2;brak matury
+K;1 E;sport;0;N;5;2;2;kształcenie zawodowe
+K;1 A;gra na instrumencie/spiew;1;N;3;4;3;kształcenie zawodowe
+K;1 A;gra na instrumencie/spiew;0;T;2;2;2;brak matury
+K;1 A;gra na instrumencie/spiew;0;T;2;2;2;brak matury
+K;1 A;gry komputerowe;2;T;5;4;4;kierunki ekonomiczne
+K;1 A;gry komputerowe;0;N;4;3;3;kształcenie zawodowe
+K;1 A;gry komputerowe;2;N;1;1;1;brak matury
+K;1 A;fotografia/rzemioslo;0;N;3;2;2;kształcenie zawodowe
+K;1 A;sport;2;T;2;2;2;brak matury
+M;1 A;gra na instrumencie/spiew;1;N;2;3;3;brak dlaszego ksztalcenia
+M;1 A;gra na instrumencie/spiew;0;N;4;5;4;kierunki ekonomiczne
+K;1 A;sport;0;N;3;3;3;kształcenie zawodowe
+M;1 A;gra na instrumencie/spiew;1;N;1;2;2;brak dlaszego ksztalcenia
